@@ -1,0 +1,6 @@
+streamlit
+numpy
+pandas
+stable-baselines3
+gymnasium
+joblib
